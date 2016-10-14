@@ -2,6 +2,6 @@ Age:24
 Major:Computer Science
 Employment Status: Student
 Side Job: Head Honcho of Student Scholar 
-Hair:Short
+Hair:Beard to the floor
 Hair Color: Brown
 Favorite Food: Everything he shouldn't eat

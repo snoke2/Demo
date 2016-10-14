@@ -2,6 +2,6 @@ Age:26
 Major:Computer Science
 Employment Status: Student
 Kids:2
-Hair:Short
+Hair:'Fro
 Hair Color: Brown
 Favorite Music: Unknown?

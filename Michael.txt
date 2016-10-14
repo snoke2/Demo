@@ -2,6 +2,6 @@ Age:24
 Major:Computer Science
 Employment Status: Student
 Side Job: CS Tutor
-Hair:Short
+Hair:Bob Marley ish
 Hair Color: Brown
 Favorite Music: Maroon 5
