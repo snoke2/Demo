@@ -1,8 +1,8 @@
 Age:23
 Major:Computer Science
 Employment Status: Student
-Wage: Peanuts
-Kids:2
+Wage: 1 Billion
+Kids:0
 Height: Quite Tall
 Hair:Short
 Hair Color: Brown

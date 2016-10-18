@@ -1,7 +1,7 @@
 Age:24
 Major:Computer Science
 Employment Status: Student
-Wage: Peanuts
+Wage: 1 Billion
 Side Job: CS Tutor
 Hair:Short
 Hair Color: Brown
