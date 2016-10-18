@@ -1,6 +1,6 @@
 Age:26
 Major:Computer Science
-Employment Status: Student
+Employment Status: Quasi-FullTime
 Wage: 1 Billion
 Kids:2
 Hair:Short
