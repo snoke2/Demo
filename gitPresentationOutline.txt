@@ -1,0 +1,112 @@
+What have you heard about git?
+How many of you have git on your computer, or have a github account?
+What do you think git is for? Time travel and parallel universe creation.
+What burning git questions do you have?
+
+4:35
+
+Warnings:
+	Don't use github.com at work for work related tasks or data, it's public, and even the "private" repos may not be safe enough for the work we do.
+	
+	Don't log off your machine once you get git installed, these thin clients will erase your changes.
+
+get git installed (5 minutes)
+	\\hera\SCRATCH\astoker\GitEtensions...msi
+create github account(3 minutes)
+	github.com
+Fork the snoke2/demo repo
+On local machine
+	git clone https://github.com/<yourUserName>/Demo
+
+4:43
+
+How does it kind of work? YouTube Demo (5:30-12:00)
+Blobs
+Trees
+Commits
+
+4:50
+
+Demo checkout forwards and backwards in time. 2 minutes
+Q&A 2 minutes
+
+4:52
+
+Youtube (22:00-26:00) 4
+WorkingDir
+Stage
+Comitted/HEAD
+
+4:56
+
+Demo with Q&A 3
+
+4:59
+
+
+Branches (Alternate reality, simply points to a commit) 3 minutes
+
+5:02
+
+2 minutes
+Repos (Places to store groups of alternate realities)
+Remotes (When when repo knows where to find another repo)
+Forks (When you copy a repo on github its a fork)
+
+5:04
+
+Make changes (Add a Car attribute to each person)
+Stage and commit changes
+	git add .
+	git status
+	git commit -m "gave them cars"
+Push 
+	git push origin master
+
+Go make a pull request to someone else
+
+5:10
+
+Make a new branch called Bleach & switch to it 
+	git branch Bleach
+	git checkout Bleach
+Make changes (Change all their hair colors in the text files)
+Stage and commit changes
+	git add .
+	git status
+	git commit -m "bleached their hair"
+Push
+	git push origin Bleach
+
+5:15
+
+Switch back to the master branch
+	git checkout master
+Make Changes 
+	Make them all unemployed OR make them all red heads
+stage and commit changes
+	-you know how to do this now
+Merge in the Bleach branch
+	git merge Bleach
+Conflicts? Reset to master
+
+5:20
+
+Add me as a remote
+ 	git remote add austin git://github.com/snoke2/Demo
+fetch my remote
+	git fetch austin
+
+
+Go view the repo with git extensions
+
+5:30
+
+Other things:
+git diff
+submodules
+Resetting, be careful
+hooks (Automate actions when you push, pull, fetch, checkout etc)
+resolve merge conflicts, kdiff and such
+
+Binary files (github supports diffs on images, pdf files and Cad drawings among other things)
