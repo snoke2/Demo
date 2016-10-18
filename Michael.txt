@@ -3,6 +3,6 @@ Major:Computer Science
 Employment Status: Student
 Wage: 1 Billion
 Side Job: CS Tutor
-Hair:Short
+Hair:Long
 Hair Color: Brown
 Favorite Music: Maroon 5
